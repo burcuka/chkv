@@ -1,0 +1,12 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "T",
+    "originalLanguage": "en"
+  },
+  "selectedChecks": [
+    {
+      "checkName": "DD_CI_DDIC_CONSISTENCY_AC"
+    }
+  ]
+}
